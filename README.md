@@ -29,7 +29,6 @@ new Metalsmith("./")
 This plugin takes an array.
 Each item must be an array of [pattern, replacement]
 
-
 ## [Changelog](CHANGELOG.md)
 
 ## [License](LICENSE)
